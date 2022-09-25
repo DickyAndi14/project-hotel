@@ -1,0 +1,17 @@
+.body{     background-color: rgb(255, 255, 255)!important; }  
+.text-active{
+    color: rgb(255, 255, 255);
+}
+.text-active:hover{
+    color: rgb(255, 255, 255);
+}
+.btn-active{
+    background-color:rgb(236, 181, 63);
+}
+.bg-merch{
+    background-color:#39AEA9!important;
+}
+.text-link{     font-weight: bold;     text-decoration: none; }  
+.text-dark{     color: rgb(44, 44, 44)!important; }  
+.img-fit {     width: 400px;     height: 500px;     object-fit: cover;  object-position: center; }  
+.img-fit-cover{     object-fit: cover;     object-position: center; }  
